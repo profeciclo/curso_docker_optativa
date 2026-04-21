@@ -20,6 +20,8 @@ Curso sobre contenedores Docker.
 * [3. ¿Cómo se organizan las imágenes?](modulo2/3.organizacion.md)
 * [4. Creación de contenedores desde imágenes](modulo2/4.creacion.md)
 * [5. Ejemplo: Desplegando la aplicación mediawiki](modulo2/5.mediawiki.md)
+* [6. Ejercicios](modulo2/6.ejercicios.md)
+
 
 ## 3. Almacenamiento y redes en Docker 
 * [Volúmenes docker y bind mount](modulo3/volumenes.md)
