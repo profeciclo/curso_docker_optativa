@@ -15,11 +15,11 @@ Curso sobre contenedores Docker.
 
 
 ## 2. Imágenes Docker 
-* [Registros de imágenes: Docker Hub](modulo2/1.dockerhub.md)
-* [Gestión de imágenes](modulo2/2.gestion.md)
-* [¿Cómo se organizan las imágenes?](modulo2/3.organizacion.md)
-* [Creación de contenedores desde imágenes](modulo2/4.creacion.md)
-* [Ejemplo: Desplegando la aplicación mediawiki](modulo2/5.mediawiki.md)
+* [1. Registros de imágenes: Docker Hub](modulo2/1.dockerhub.md)
+* [2. Gestión de imágenes](modulo2/2.gestion.md)
+* [3. ¿Cómo se organizan las imágenes?](modulo2/3.organizacion.md)
+* [4. Creación de contenedores desde imágenes](modulo2/4.creacion.md)
+* [5. Ejemplo: Desplegando la aplicación mediawiki](modulo2/5.mediawiki.md)
 
 ## 3. Almacenamiento y redes en Docker 
 * [Volúmenes docker y bind mount](modulo3/volumenes.md)
