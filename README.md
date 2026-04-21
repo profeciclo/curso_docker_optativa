@@ -11,6 +11,8 @@ Curso sobre contenedores Docker.
 * [Creando un contenedor demonio](modulo1/6.demonio.md)
 * [Creando un contenedor con un servidor web](modulo1/7.web.md)
 * [Configuración de contenedores con variables de entorno](modulo1/8.configuracion.md)
+* [Ejercicios](modulo1/9.ejercicios.md)
+
 
 ## 2. Imágenes Docker 
 * [Registros de imágenes: Docker Hub](modulo2/1.dockerhub.md)
