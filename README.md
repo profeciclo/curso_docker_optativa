@@ -3,15 +3,15 @@
 Curso sobre contenedores Docker.
 
 ## 1. Introducción a los contenedores Docker
-* [Introducción a Docker](modulo1/1.introduccion.md)
-* [Instalación de docker](modulo1/2.instalacion.md)
-* [El "Hola Mundo" de docker](modulo1/3.holamundo.md)
-* [Ejecución simple de contenedores](modulo1/4.contenedor.md)
-* [Ejecutando un contenedor interactivo](modulo1/5.interactivo.md)
-* [Creando un contenedor demonio](modulo1/6.demonio.md)
-* [Creando un contenedor con un servidor web](modulo1/7.web.md)
-* [Configuración de contenedores con variables de entorno](modulo1/8.configuracion.md)
-* [Ejercicios](modulo1/9.ejercicios.md)
+* [1. Introducción a Docker](modulo1/1.introduccion.md)
+* [2. Instalación de Docker](modulo1/2.instalacion.md)
+* [3. El "Hola Mundo" de Docker](modulo1/3.holamundo.md)
+* [4. Ejecución simple de contenedores](modulo1/4.contenedor.md)
+* [5. Ejecutando un contenedor interactivo](modulo1/5.interactivo.md)
+* [6. Creando un contenedor demonio](modulo1/6.demonio.md)
+* [7. Creando un contenedor con un servidor web](modulo1/7.web.md)
+* [8. Configuración de contenedores con variables de entorno](modulo1/8.configuracion.md)
+* [9. Ejercicios](modulo1/9.ejercicios.md)
 
 
 ## 2. Imágenes Docker 
