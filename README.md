@@ -3,21 +3,21 @@
 Curso sobre contenedores Docker.
 
 ## 1. Introducción a los contenedores Docker
-* Introducción a Docker
-* [Instalación de docker](modulo1/instalacion.md)
-* [El "Hola Mundo" de docker](modulo1/holamundo.md)
-* [Ejecución simple de contenedores](modulo1/contenedor.md)
-* [Ejecutando un contenedor interactivo](modulo1/interactivo.md)
-* [Creando un contenedor demonio](modulo1/demonio.md)
-* [Creando un contenedor con un servidor web](modulo1/web.md)
-* [Configuración de contenedores con variables de entorno](modulo1/configuracion.md)
+* [Introducción a Docker](modulo1/1.introduccion.md)
+* [Instalación de docker](modulo1/2.instalacion.md)
+* [El "Hola Mundo" de docker](modulo1/3.holamundo.md)
+* [Ejecución simple de contenedores](modulo1/4.contenedor.md)
+* [Ejecutando un contenedor interactivo](modulo1/5.interactivo.md)
+* [Creando un contenedor demonio](modulo1/6.demonio.md)
+* [Creando un contenedor con un servidor web](modulo1/7.web.md)
+* [Configuración de contenedores con variables de entorno](modulo1/8.configuracion.md)
 
 ## 2. Imágenes Docker 
-* [Registros de imágenes: Docker Hub](modulo2/dockerhub.md)
-* [Gestión de imágenes](modulo2/gestion.md)
-* [¿Cómo se organizan las imágenes?](modulo2/organizacion.md)
-* [Creación de contenedores desde imágenes](modulo2/creacion.md)
-* [Ejemplo: Desplegando la aplicación mediawiki](modulo2/mediawiki.md)
+* [Registros de imágenes: Docker Hub](modulo2/1.dockerhub.md)
+* [Gestión de imágenes](modulo2/2.gestion.md)
+* [¿Cómo se organizan las imágenes?](modulo2/3.organizacion.md)
+* [Creación de contenedores desde imágenes](modulo2/4.creacion.md)
+* [Ejemplo: Desplegando la aplicación mediawiki](modulo2/5.mediawiki.md)
 
 ## 3. Almacenamiento y redes en Docker 
 * [Volúmenes docker y bind mount](modulo3/volumenes.md)
