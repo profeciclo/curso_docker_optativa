@@ -24,15 +24,16 @@ Curso sobre contenedores Docker.
 
 
 ## 3. Almacenamiento y redes en Docker 
-* [Volúmenes docker y bind mount](modulo3/1.volumenes.md)
-* [Asociando almacenamiento a los contenedores: volúmenes Docker](modulo3/2.asociacion_volumen.md)
-* [Asociando almacenamiento a los contenedores: bind mount](modulo3/3.asociacion_bind_mount.md)
-* [Redes en Docker](modulo3/4.redes.md)
-* [Redes definidas por el usuario](modulo3/5.redes_usuario.md)
-* [Ejemplo 1: Despliegue de la aplicación Guestbook](modulo3/6.guestbook.md)
-* [Ejemplo 2: Despliegue de la aplicación Temperaturas](modulo3/7.temperaturas.md)
-* [Ejemplo 3: Despliegue de Wordpress + mariadb](modulo3/8.wordpress.md)
-* [Ejemplo 4: Despliegue de tomcat + nginx](modulo3/9.tomcat.md)
+* [1. Volúmenes docker y bind mount](modulo3/1.volumenes.md)
+* [2. Asociando almacenamiento a los contenedores: volúmenes Docker](modulo3/2.asociacion_volumen.md)
+* [3. Asociando almacenamiento a los contenedores: bind mount](modulo3/3.asociacion_bind_mount.md)
+* [4. Redes en Docker](modulo3/4.redes.md)
+* [5. Redes definidas por el usuario](modulo3/5.redes_usuario.md)
+* [6. Ejemplo 1: Despliegue de la aplicación Guestbook](modulo3/6.guestbook.md)
+* [7. Ejemplo 2: Despliegue de la aplicación Temperaturas](modulo3/7.temperaturas.md)
+* [8. Ejemplo 3: Despliegue de Wordpress + mariadb](modulo3/8.wordpress.md)
+* [9. Ejemplo 4: Despliegue de tomcat + nginx](modulo3/9.tomcat.md)
+* [10. Ejercicios](modulo3/9.ejercicios.md)
 
 ## 4. Creando escenarios multicontenedor con Docker Compose 
 * [Creando escenarios multicontenedor con Docker Compose](modulo4/instalacion.md)
