@@ -36,14 +36,16 @@ Curso sobre contenedores Docker.
 * [10. Ejercicios](modulo3/9.ejercicios.md)
 
 ## 4. Creando escenarios multicontenedor con Docker Compose 
-* [Creando escenarios multicontenedor con Docker Compose](modulo4/instalacion.md)
-* [El fichero docker-compose.yaml](modulo4/docker-compose.md)
-* [El comando docker compose](modulo4/comando.md)
-* [Almacenamiento con docker compose](modulo4/almacenamiento.md)
-* [Ejemplo 1: Despliegue de la aplicación Guestbook](modulo4/guestbook.md)
-* [Ejemplo 2: Despliegue de la aplicación Temperaturas](modulo4/temperaturas.md)
-* [Ejemplo 3: Despliegue de Wordpress + mariadb](modulo4/wordpress.md)
-* [Ejemplo 4: Despliegue de tomcat + nginx](modulo4/tomcat.md)
+* [1. Creando escenarios multicontenedor con Docker Compose](modulo4/1.instalacion.md)
+* [2. El fichero docker-compose.yaml](modulo4/2.docker-compose.md)
+* [3. El comando docker compose](modulo4/3.comando.md)
+* [4. Almacenamiento con docker compose](modulo4/4.almacenamiento.md)
+* [5. Ejemplo 1: Despliegue de la aplicación Guestbook](modulo4/5.guestbook.md)
+* [6. Ejemplo 2: Despliegue de la aplicación Temperaturas](modulo4/6.temperaturas.md)
+* [7. Ejemplo 3: Despliegue de Wordpress + mariadb](modulo4/7.wordpress.md)
+* [8. Ejemplo 4: Despliegue de tomcat + nginx](modulo4/8.tomcat.md)
+* [9. Ejercicio 1](modulo4/9.ejercicio1.md)
+* [10. Ejercicio 2](modulo4/10.ejercicio1.md)
 
 ## 5. Creación de imágenes en docker 
 * [Creación de imágenes a partir de un contenedor](modulo5/contenedor.md)
