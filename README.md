@@ -45,7 +45,7 @@ Curso sobre contenedores Docker.
 * [7. Ejemplo 3: Despliegue de Wordpress + mariadb](modulo4/7.wordpress.md)
 * [8. Ejemplo 4: Despliegue de tomcat + nginx](modulo4/8.tomcat.md)
 * [9. Ejercicio 1](modulo4/9.ejercicio1.md)
-* [10. Ejercicio 2](modulo4/10.ejercicio1.md)
+* [10. Ejercicio 2](modulo4/10.ejercicio2.md)
 
 ## 5. Creación de imágenes en docker 
 * [Creación de imágenes a partir de un contenedor](modulo5/contenedor.md)
