@@ -57,3 +57,4 @@ Curso sobre contenedores Docker.
 * [7. Ejemplo 4: Construcción de imágenes configurables con variables de entorno](modulo5/7.ejemplo4.md)
 * [8. Ejemplo 5: Configuración de imágenes con una aplicación Java](modulo5/8.ejemplo5.md)
 * [9. Ciclo de vida de las aplicaciones](modulo5/9.ciclo_vida.md)
+* [10. Ejercicio](modulo5/10.ejercicio.md)
